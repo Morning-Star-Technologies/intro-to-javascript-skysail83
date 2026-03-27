@@ -8,6 +8,10 @@
 * 5. A variable that holds null
 * 
 * Then log each of these variables to the console showing the variable name and its value.
+*
+* Example:
+*    let weapon = "Long Bow";
+*    console.log("weapon:", weapon);
 */
 
 // Begin writing your code below
