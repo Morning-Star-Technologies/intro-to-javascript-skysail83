@@ -14,4 +14,19 @@
 *    console.log("weapon:", weapon);
 */
 
-// Begin writing your code below
+/* 1. A variable that holds a string */
+let player = 'Sidney Crosby';
+
+/* 2. A variable that holds a number */
+let JerseyNumber = 87;
+/* 3. A variable that holds a boolean */
+
+let PlayerIsBad = false; 
+/* 4. A variable that holds undefined */
+
+let Careertrajectory = undefined; 
+
+/* 5. A variable that holds null */
+let PlayersWeakness = null; 
+
+console.log(buriedTreasureLocation);
