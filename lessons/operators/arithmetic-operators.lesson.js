@@ -15,7 +15,7 @@ console.log('The treasure chest now has', treasureChest, 'pieces of gold');
 let numberOfThieves = 4;
 let thiefCapacity = 25;
 
-treasureChest = treasureChest - (numberOfThieves * thiefCapacity); // subtraction and multiplication operators
+treasureChest = treasureChest - (numberOfThieves * thiefCapacity); // subtraction and multiplication operators & order of operations
 
 console.log('After intense thievery, the treasure chest has', treasureChest, 'pieces of gold left');
 
