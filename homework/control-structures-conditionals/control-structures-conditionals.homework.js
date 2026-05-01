@@ -6,3 +6,13 @@
 */
 
 // Begin writing your code below
+
+Age = 20;
+if (Age >= 16)
+    {console.log('You are old enough to drive.')}
+
+Age = 15;
+if (Age >= 16)
+    {console.log('You are old enough to drive.')}
+else
+    {console.log('You are too young to drive!')} 
