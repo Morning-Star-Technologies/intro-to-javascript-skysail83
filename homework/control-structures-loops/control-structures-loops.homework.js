@@ -6,6 +6,11 @@ const binaryValues = [true, false, true, true, false, false, true, false, false,
 
 let trueCount = 0;
 
-// Replace this comment with your code
+// Count the true values
+for (let i = 0; i < binaryValues.length; i++) {
+    if (binaryValues[i] === true) {
+        trueCount++;
+    }
+}
 
 console.log('The number of true values is', trueCount);
